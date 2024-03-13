@@ -13,7 +13,7 @@ function Header() {
         className="navbar-logo-left-container shadow-three w-nav"
       >
         <div
-          // data-w-id="4982ae7b-926b-0255-4b2b-722ac87daf74"
+          data-w-id="4982ae7b-926b-0255-4b2b-722ac87daf74"
           className="container-2"
         >
           <div className="navbar-wrapper">
@@ -51,8 +51,8 @@ function Header() {
                     utilities
                   </a>
                 </li>
-                {/* <li className="mobile-margin-top-10"> */}
-                  {/* <div className="button1 main"> */}
+                <li className="mobile-margin-top-10">
+                  <div className="button1 main">
                     <a
                       href="https://raydium.io/swap/?outputCurrency=GDisrnbVWjKJuAVqeWfYd9zMyV9gP7gXb3FQfd8xbKuM"
                       target="_blank"
@@ -60,8 +60,8 @@ function Header() {
                     >
                       <h1 className="button-text main">buy me</h1>
                     </a>
-                  {/* </div> */}
-                {/* </li> */}
+                  </div>
+                </li>
               </ul>
             </nav>
             <div className="menu-button w-nav-button">
