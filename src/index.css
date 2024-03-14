@@ -1920,6 +1920,10 @@ textarea.w-input, textarea.w-select {
   top: 0;
 }
 
+.safari-overflow .fusion-fullwidth {
+  overflow-x: visible !important;
+}
+
 .w-nav[data-animation="over-left"] .w-nav-overlay {
   width: 100%;
 }
