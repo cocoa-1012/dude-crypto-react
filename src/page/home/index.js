@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable jsx-a11y/alt-text */
-import dishImg from "../../assets/img/dish.svg";
 import starImg from "../../assets/img/Star.svg";
 import boneImg from "../../assets/img/bone.svg";
 import ballDogImg from "../../assets/img/ball-dog.svg";
@@ -31,7 +30,6 @@ function Home() {
         className="section"
       >
         <div className="container">
-          {/* <img src={dishImg} className="dish" /> */}
           <img src={starImg} className="star second" />
           <img src={starImg} className="star first" />
           <img src={boneImg} className="bone" />
